@@ -57,12 +57,60 @@ Developing end-to-end architectures that combine responsive modern interfaces wi
 ## 💻 Technical Expertise
 
 <p align="center">
-  <img src="assets/tech-expertise.svg" alt="Technical Expertise skill bars" width="100%" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,express,tailwind,git,github,vscode,linux,azure,flask,fastapi,sklearn,postgres,supabase" alt="Tech stack icons" />
 </p>
+
+<table>
+<tr><td colspan="2"><b>Languages & Core</b></td></tr>
+<tr>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Python&message=100%25&color=brightgreen&style=flat-square" alt="Python 100%" /></td>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=SQL&message=75%25&color=yellowgreen&style=flat-square" alt="SQL 75%" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=C%2B%2B&message=80%25&color=yellowgreen&style=flat-square" alt="C++ 80%" /></td>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=JavaScript&message=90%25&color=green&style=flat-square" alt="JavaScript 90%" /></td>
+</tr>
+<tr><td colspan="2"><b>AI / LLM Systems & Frameworks</b></td></tr>
+<tr>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=RAG%20Pipelines&message=100%25&color=brightgreen&style=flat-square" alt="RAG Pipelines 100%" /></td>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Azure%20AI%20Vision&message=80%25&color=yellowgreen&style=flat-square" alt="Azure AI Vision 80%" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Prompt%20Engineering&message=90%25&color=green&style=flat-square" alt="Prompt Engineering 90%" /></td>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=FastAPI%20%2F%20Flask&message=90%25&color=green&style=flat-square" alt="FastAPI / Flask 90%" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Agentic%20Logic&message=80%25&color=yellowgreen&style=flat-square" alt="Agentic Logic 80%" /></td>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Vector%20DBs%20%28FAISS%29&message=75%25&color=yellowgreen&style=flat-square" alt="Vector DBs (FAISS) 75%" /></td>
+</tr>
+<tr><td colspan="2"><b>ML & Data Science</b></td></tr>
+<tr>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Scikit-learn&message=80%25&color=yellowgreen&style=flat-square" alt="Scikit-learn 80%" /></td>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=NumPy%20%2F%20Pandas&message=85%25&color=green&style=flat-square" alt="NumPy / Pandas 85%" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Data%20Viz&message=70%25&color=yellow&style=flat-square" alt="Data Viz 70%" /></td>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Model%20Dev.&message=80%25&color=yellowgreen&style=flat-square" alt="Model Dev. 80%" /></td>
+</tr>
+<tr><td colspan="2"><b>Tools & Platforms</b></td></tr>
+<tr>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=React%20%2F%20MERN&message=90%25&color=green&style=flat-square" alt="React / MERN 90%" /></td>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Supabase%20%2F%20Postgres&message=80%25&color=yellowgreen&style=flat-square" alt="Supabase / Postgres 80%" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=VS%20Code&message=100%25&color=brightgreen&style=flat-square" alt="VS Code 100%" /></td>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Git%20%2F%20GitHub&message=90%25&color=green&style=flat-square" alt="Git / GitHub 90%" /></td>
+</tr>
+<tr>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Linux%20%2F%20CLI&message=75%25&color=yellowgreen&style=flat-square" alt="Linux / CLI 75%" /></td>
+<td width="50%"><img src="https://img.shields.io/static/v1?label=Tailwind%20%2F%20GSAP&message=90%25&color=green&style=flat-square" alt="Tailwind / GSAP 90%" /></td>
+</tr>
+</table>
 
 <details>
 <summary>Plain-text version (for terminals / non-image viewers)</summary>
 
+```text
 Languages & Core
 Python          ████████████████████ 100% | SQL              ███████████████░░░░░  75%
 C++             ████████████████░░░░  80% | JavaScript       ██████████████████░░  90%
@@ -126,12 +174,12 @@ Data Viz        ██████████████░░░░░░  70
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=WebDevHari20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://raw.githubusercontent.com/WebDevHari20/WebDevHari20/github-summary-cards/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=WebDevHari20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WebDevHari20&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/WebDevHari20/WebDevHari20/github-summary-cards/profile-summary-card-output/tokyonight/3-repos-per-language.svg" alt="Activity Graph" />
 </p>
 
 ---
