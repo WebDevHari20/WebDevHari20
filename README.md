@@ -149,8 +149,6 @@ Linux/CLI        ███████████████░░░░░ 75
   <img src="https://raw.githubusercontent.com/WebDevHari20/WebDevHari20/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 
-> The snake animation needs a one-time setup — see the note at the bottom of this file.
-
 ---
 
 ## 💡 Engineering Philosophy
