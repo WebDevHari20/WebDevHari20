@@ -57,17 +57,12 @@ Developing end-to-end architectures that combine responsive modern interfaces wi
 ## 💻 Technical Expertise
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,express,tailwind,git,github,vscode,linux,azure,flask,fastapi,sklearn,postgres,supabase" alt="Tech stack icons" />
-</p>
-
-<p align="center">
   <img src="assets/tech-expertise.svg" alt="Technical Expertise skill bars" width="100%" />
 </p>
 
 <details>
 <summary>Plain-text version (for terminals / non-image viewers)</summary>
 
-```text
 Languages & Core
 Python          ████████████████████ 100% | SQL              ███████████████░░░░░  75%
 C++             ████████████████░░░░  80% | JavaScript       ██████████████████░░  90%
