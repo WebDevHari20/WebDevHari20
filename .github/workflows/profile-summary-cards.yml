@@ -1,0 +1,1 @@
+name: Generate GitHub Profile Summary Cards on: schedule: - cron: '0 0 * * *' workflow_dispatch: jobs: build: runs-on: ubuntu-latest permissions: contents: write steps: - name: Generate profile summary cards uses: vn7n24fzkq/github-profile-summary-cards@release with: github_token: ${{ secrets.GITHUB_TOKEN }} user: WebDevHari20 theme: tokyonight template_size: compact
