@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hari Bahadur Narzary | AI/ML & Full-Stack Engineer</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=Hari%20Bahadur%20Narzary&fontSize=42&fontColor=ffffff&animation=fadeIn" width="100%" alt="Header banner" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hari583/"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -7,7 +7,9 @@
 </p>
 
 <p align="center">
-  <b>Building Intelligent Web Systems, Scalable Backends & Applied AI Solutions 🚀</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Intelligent+Web+Systems+%F0%9F%9A%80;Applied+AI+%26+RAG+Pipelines;Scalable+Full-Stack+Architectures;Tech+Lead+%40+Future+Tech+%26+Gen+AI+SIG" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
@@ -56,81 +58,47 @@ Developing end-to-end architectures that combine responsive modern interfaces wi
 
 ## 💻 Technical Expertise
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,react,express,tailwind,git,github,vscode,linux,azure,flask,fastapi,sklearn,postgres,supabase" alt="Tech stack icons" />
+### Languages & Core
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,js" alt="Languages" />
 </p>
 
-<table>
-<tr><td colspan="2"><b>Languages & Core</b></td></tr>
-<tr>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Python&message=100%25&color=brightgreen&style=flat-square" alt="Python 100%" /></td>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=SQL&message=75%25&color=yellowgreen&style=flat-square" alt="SQL 75%" /></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=C%2B%2B&message=80%25&color=yellowgreen&style=flat-square" alt="C++ 80%" /></td>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=JavaScript&message=90%25&color=green&style=flat-square" alt="JavaScript 90%" /></td>
-</tr>
-<tr><td colspan="2"><b>AI / LLM Systems & Frameworks</b></td></tr>
-<tr>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=RAG%20Pipelines&message=100%25&color=brightgreen&style=flat-square" alt="RAG Pipelines 100%" /></td>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Azure%20AI%20Vision&message=80%25&color=yellowgreen&style=flat-square" alt="Azure AI Vision 80%" /></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Prompt%20Engineering&message=90%25&color=green&style=flat-square" alt="Prompt Engineering 90%" /></td>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=FastAPI%20%2F%20Flask&message=90%25&color=green&style=flat-square" alt="FastAPI / Flask 90%" /></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Agentic%20Logic&message=80%25&color=yellowgreen&style=flat-square" alt="Agentic Logic 80%" /></td>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Vector%20DBs%20%28FAISS%29&message=75%25&color=yellowgreen&style=flat-square" alt="Vector DBs (FAISS) 75%" /></td>
-</tr>
-<tr><td colspan="2"><b>ML & Data Science</b></td></tr>
-<tr>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Scikit-learn&message=80%25&color=yellowgreen&style=flat-square" alt="Scikit-learn 80%" /></td>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=NumPy%20%2F%20Pandas&message=85%25&color=green&style=flat-square" alt="NumPy / Pandas 85%" /></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Data%20Viz&message=70%25&color=yellow&style=flat-square" alt="Data Viz 70%" /></td>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Model%20Dev.&message=80%25&color=yellowgreen&style=flat-square" alt="Model Dev. 80%" /></td>
-</tr>
-<tr><td colspan="2"><b>Tools & Platforms</b></td></tr>
-<tr>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=React%20%2F%20MERN&message=90%25&color=green&style=flat-square" alt="React / MERN 90%" /></td>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Supabase%20%2F%20Postgres&message=80%25&color=yellowgreen&style=flat-square" alt="Supabase / Postgres 80%" /></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=VS%20Code&message=100%25&color=brightgreen&style=flat-square" alt="VS Code 100%" /></td>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Git%20%2F%20GitHub&message=90%25&color=green&style=flat-square" alt="Git / GitHub 90%" /></td>
-</tr>
-<tr>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Linux%20%2F%20CLI&message=75%25&color=yellowgreen&style=flat-square" alt="Linux / CLI 75%" /></td>
-<td width="50%"><img src="https://img.shields.io/static/v1?label=Tailwind%20%2F%20GSAP&message=90%25&color=green&style=flat-square" alt="Tailwind / GSAP 90%" /></td>
-</tr>
-</table>
-
-<details>
-<summary>Plain-text version (for terminals / non-image viewers)</summary>
-
-```text
-Languages & Core
-Python          ████████████████████ 100% | SQL              ███████████████░░░░░  75%
-C++             ████████████████░░░░  80% | JavaScript       ██████████████████░░  90%
-
-Tools & Platforms
-React / MERN    ██████████████████░░  90% | Supabase/Postgres ████████████████░░░░  80%
-VS Code         ████████████████████ 100% | Git / GitHub      ██████████████████░░  90%
-Linux / CLI     ███████████████░░░░░  75% | Tailwind / GSAP   ██████████████████░░  90%
-
-AI/LLM Systems & Frameworks
-RAG Pipelines   ████████████████████ 100% | Azure AI Vision   ████████████████░░░░  80%
-Prompt Eng.     ██████████████████░░  90% | FastAPI / Flask   ██████████████████░░  90%
-Agentic Logic   ████████████████░░░░  80% | Vector DBs        ███████████████░░░░░  75%
-
-ML & Data Science
-Scikit-learn    ████████████████░░░░  80% | NumPy / Pandas    █████████████████░░░  85%
-Data Viz        ██████████████░░░░░░  70% | Model Dev.        ████████████████░░░░  80%
+```
+Python       ████████████████████ 100% | SQL          ███████████████░░░░░ 75%
+C++          ████████████████░░░░ 80%  | JavaScript   ██████████████████░░ 90%
 ```
 
-</details>
+### AI/LLM Systems & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,flask,fastapi,sklearn,azure" alt="AI/LLM Frameworks" />
+</p>
+
+```
+RAG Pipelines        ████████████████████ 100% | Azure AI Vision    ████████████████░░░░ 80%
+Prompt Engineering   ██████████████████░░ 90%  | FastAPI/Flask      ██████████████████░░ 90%
+Agentic Logic        ████████████████░░░░ 80%  | Vector DBs (FAISS) ███████████████░░░░░ 75%
+```
+
+### ML & Data Science
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn,python" alt="ML & Data Science" />
+</p>
+
+```
+Scikit-learn      ████████████████░░░░ 80% | NumPy/Pandas   █████████████████░░░ 85%
+Data Viz          ██████████████░░░░░░ 70% | Model Dev.     ████████████████░░░░ 80%
+```
+
+### Tools & Platforms
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,express,tailwind,git,github,vscode,linux,postgres,supabase" alt="Tools & Platforms" />
+</p>
+
+```
+React/MERN       ██████████████████░░ 90%  | Supabase/Postgres ████████████████░░░░ 80%
+VS Code          ████████████████████ 100% | Git/GitHub        ██████████████████░░ 90%
+Linux/CLI        ███████████████░░░░░ 75%  | Tailwind/GSAP     ██████████████████░░ 90%
+```
 
 ---
 
@@ -174,13 +142,14 @@ Data Viz        ██████████████░░░░░░  70
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://raw.githubusercontent.com/WebDevHari20/WebDevHari20/github-summary-cards/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Stats" />
   <img height="165" src="https://streak-stats.demolab.com/?user=WebDevHari20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WebDevHari20/WebDevHari20/github-summary-cards/profile-summary-card-output/tokyonight/3-repos-per-language.svg" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/WebDevHari20/WebDevHari20/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
+
+> The snake animation needs a one-time setup — see the note at the bottom of this file.
 
 ---
 
@@ -208,3 +177,14 @@ I'm always open to discussing:
   <a href="https://github.com/WebDevHari20"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:harinarzary22@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%" alt="Footer banner" />
+
+<!--
+Snake animation setup (one-time, ~5 min):
+1. In the WebDevHari20/WebDevHari20 repo, go to Settings -> Secrets and variables -> Actions.
+2. Create .github/workflows/snake.yml using the workflow from:
+   https://github.com/Platane/snk#3-Add-a-workflow-to-generate-the-svg-and-commit-it-to-the-output-branch
+3. Commit -- the Action runs on schedule and generates an `output` branch with the SVG.
+4. Once the Action runs once, the snake image in this README renders automatically.
+-->
